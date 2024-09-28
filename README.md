@@ -1,20 +1,24 @@
-# 🎮 Python Projects by S Guru Vishnu 🐍
+# 📊 Pandas Notes 🐼
 
-Welcome to my Python Projects repository! This repo contains fun and educational Python projects that I've developed as part of my Data Science journey. 🚀
+Welcome to my **Pandas Notes** repository! This repo contains my personal notes and resources for mastering **Pandas**, a powerful data manipulation and analysis library in Python. Whether you're just getting started or brushing up on your skills, these notes are here to help you. 🚀
 
-## 📚 Projects List
+## 📖 What’s Inside
 
-1. **🧮 Maths Quiz Game**  
-   A quiz game that tests your basic math skills. Users can answer multiple-choice questions and receive feedback on their performance.
+- **📘 Basic Operations**: Loading, selecting, and filtering data.
+- **📊 DataFrame Manipulations**: Indexing, grouping, merging, and reshaping data.
+- **🧮 Statistical Functions**: Descriptive stats, aggregation, and advanced calculations.
+- **🧹 Data Cleaning**: Handling missing data, duplicates, and applying transformations.
+- **📈 Visualization**: Plotting data using Pandas and Matplotlib (coming soon).
+  
+## 🛠 Prerequisites
 
-2. **🔢 Number Guessing Game**  
-   A fun game where the player has to guess a randomly generated number in the least amount of tries.
+Before diving in, make sure you have the following installed:
+- Python 🐍
+- Pandas 🐼 (`pip install pandas`)
+- Jupyter Notebook 📓 (Optional but recommended for note-taking and practice)
 
-3. **📝 To-Do List**  
-   A command-line-based to-do list application to help you manage tasks efficiently.
+## 🎯 Goals
 
-4. **🪨✂️📄 Rock Paper Scissors**  
-   A simple implementation of the classic Rock, Paper, Scissors game where you play against the computer.
-
-5. **🧮 Calculator**  
-   A basic calculator that can perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
+- Understand the key features of Pandas.
+- Learn how to manipulate DataFrames efficiently.
+- Build data-driven insights using Pandas.
